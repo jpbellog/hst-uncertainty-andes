@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this repository."
+title: "Data and code for: Formal uncertainty budget for subducting hotspot-track reconstructions and trench-collision points along the Cenozoic Andean margin of Chile and Peru"
+type: software
+license: MIT
+authors:
+  - family-names: Bello-González
+    given-names: Juan Pablo
+    affiliation: "Departamento de Geología, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, Santiago, Chile"
+  - family-names: Lara
+    given-names: Luis E.
+    affiliation: "Instituto de Ciencias de la Tierra, Universidad Austral de Chile, Valdivia, Chile"
+  - family-names: Contreras-Reyes
+    given-names: Eduardo
+    affiliation: "Departamento de Geofísica, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, Santiago, Chile"
+  - family-names: Quiero Silva
+    given-names: Felipe
+    affiliation: "Departamento de Física, Facultad de Ciencias Exactas, Universidad Andres Bello, Santiago, Chile"
+keywords:
+  - hotspot tracks
+  - plate reconstructions
+  - uncertainty
+  - flat-slab subduction
+  - ridge subduction
+  - Andes

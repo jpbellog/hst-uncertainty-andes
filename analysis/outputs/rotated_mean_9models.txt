@@ -1,0 +1,81 @@
+=== Q22_WK08-A
+Easter sin pesos n=27 media ( -26.002, -103.968)  a   69.4 km de h0 fijo (-26.307, -104.575)
+Easter con pesos n=27 media ( -26.066, -103.916)  a   70.9 km de h0 fijo (-26.307, -104.575)
+Easter + 0 Ma    n=28 media ( -26.117, -104.422)  a   26.1 km de h0 fijo (-26.307, -104.575)
+       dispersion de los puntos rotados respecto a h0: mediana 159 km, max 553 km
+JFR    sin pesos n=16 media ( -34.840,  -80.898)  a  164.3 km de h0 fijo (-35.485, -82.524)
+JFR    con pesos n=16 media ( -34.792,  -80.993)  a  159.1 km de h0 fijo (-35.485, -82.524)
+JFR    + 0 Ma    n=17 media ( -33.814,  -81.850)  a  195.8 km de h0 fijo (-35.485, -82.524)
+       dispersion de los puntos rotados respecto a h0: mediana 167 km, max 298 km
+=== Q22_GMHRF-B
+Easter sin pesos n=28 media ( -24.441, -105.061)  a  183.8 km de h0 fijo (-25.210, -106.673)
+Easter con pesos n=28 media ( -24.621, -105.001)  a  180.9 km de h0 fijo (-25.210, -106.673)
+Easter + 0 Ma    n=29 media ( -24.917, -105.276)  a  144.4 km de h0 fijo (-25.210, -106.673)
+       dispersion de los puntos rotados respecto a h0: mediana 238 km, max 906 km
+JFR    sin pesos n=16 media ( -34.248,  -81.584)  a   42.7 km de h0 fijo (-34.616, -81.450)
+JFR    con pesos n=16 media ( -34.237,  -81.608)  a   44.6 km de h0 fijo (-34.616, -81.450)
+JFR    + 0 Ma    n=17 media ( -34.195,  -81.633)  a   49.7 km de h0 fijo (-34.616, -81.450)
+       dispersion de los puntos rotados respecto a h0: mediana 51 km, max 105 km
+=== Q22_GWG20
+Easter sin pesos n=29 media ( -24.251, -102.218)  a  110.1 km de h0 fijo (-24.317, -103.302)
+Easter con pesos n=29 media ( -24.571, -102.661)  a   70.8 km de h0 fijo (-24.317, -103.302)
+Easter + 0 Ma    n=30 media ( -24.820, -103.202)  a   56.8 km de h0 fijo (-24.317, -103.302)
+       dispersion de los puntos rotados respecto a h0: mediana 168 km, max 889 km
+JFR    sin pesos n=15 media ( -33.787,  -80.360)  a   22.3 km de h0 fijo (-33.743, -80.595)
+JFR    con pesos n=15 media ( -33.820,  -80.693)  a   12.5 km de h0 fijo (-33.743, -80.595)
+JFR    + 0 Ma    n=16 media ( -33.775,  -81.494)  a   83.2 km de h0 fijo (-33.743, -80.595)
+       dispersion de los puntos rotados respecto a h0: mediana 48 km, max 201 km
+=== WD25_WK08-A
+Easter sin pesos n=28 media ( -26.037, -103.886)  a   63.4 km de h0 fijo (-26.264, -104.468)
+Easter con pesos n=28 media ( -25.991, -103.882)  a   65.9 km de h0 fijo (-26.264, -104.468)
+Easter + 0 Ma    n=29 media ( -26.057, -104.401)  a   23.9 km de h0 fijo (-26.264, -104.468)
+       dispersion de los puntos rotados respecto a h0: mediana 141 km, max 600 km
+JFR    sin pesos n=16 media ( -34.609,  -80.769)  a    4.9 km de h0 fijo (-34.579, -80.809)
+JFR    con pesos n=16 media ( -34.569,  -80.845)  a    3.5 km de h0 fijo (-34.579, -80.809)
+JFR    + 0 Ma    n=17 media ( -34.492,  -80.946)  a   15.9 km de h0 fijo (-34.579, -80.809)
+       dispersion de los puntos rotados respecto a h0: mediana 42 km, max 142 km
+=== WD25_GMHRF-B
+Easter sin pesos n=29 media ( -24.448, -104.993)  a  213.1 km de h0 fijo (-25.285, -106.894)
+Easter con pesos n=29 media ( -24.469, -105.121)  a  200.6 km de h0 fijo (-25.285, -106.894)
+Easter + 0 Ma    n=30 media ( -24.870, -105.438)  a  153.8 km de h0 fijo (-25.285, -106.894)
+       dispersion de los puntos rotados respecto a h0: mediana 253 km, max 941 km
+JFR    sin pesos n=16 media ( -34.018,  -81.454)  a   41.2 km de h0 fijo (-34.377, -81.342)
+JFR    con pesos n=16 media ( -34.008,  -81.477)  a   42.8 km de h0 fijo (-34.377, -81.342)
+JFR    + 0 Ma    n=17 media ( -33.987,  -81.513)  a   46.1 km de h0 fijo (-34.377, -81.342)
+       dispersion de los puntos rotados respecto a h0: mediana 45 km, max 93 km
+=== WD25_GWG20
+Easter sin pesos n=29 media ( -24.370, -102.276)  a  142.9 km de h0 fijo (-24.606, -103.664)
+Easter con pesos n=29 media ( -24.597, -102.941)  a   73.1 km de h0 fijo (-24.606, -103.664)
+Easter + 0 Ma    n=30 media ( -24.933, -103.634)  a   36.5 km de h0 fijo (-24.606, -103.664)
+       dispersion de los puntos rotados respecto a h0: mediana 194 km, max 932 km
+JFR    sin pesos n=16 media ( -33.561,  -80.330)  a   28.0 km de h0 fijo (-33.552, -80.632)
+JFR    con pesos n=16 media ( -33.659,  -80.786)  a   18.5 km de h0 fijo (-33.552, -80.632)
+JFR    + 0 Ma    n=17 media ( -33.695,  -81.210)  a   55.8 km de h0 fijo (-33.552, -80.632)
+       dispersion de los puntos rotados respecto a h0: mediana 43 km, max 206 km
+=== SG12_WK08-A
+Easter sin pesos n=27 media ( -26.002, -103.968)  a   69.4 km de h0 fijo (-26.307, -104.575)
+Easter con pesos n=27 media ( -26.066, -103.916)  a   70.9 km de h0 fijo (-26.307, -104.575)
+Easter + 0 Ma    n=28 media ( -26.117, -104.422)  a   26.1 km de h0 fijo (-26.307, -104.575)
+       dispersion de los puntos rotados respecto a h0: mediana 159 km, max 553 km
+JFR    sin pesos n=16 media ( -34.840,  -80.898)  a  164.3 km de h0 fijo (-35.485, -82.524)
+JFR    con pesos n=16 media ( -34.792,  -80.993)  a  159.1 km de h0 fijo (-35.485, -82.524)
+JFR    + 0 Ma    n=17 media ( -33.814,  -81.850)  a  195.8 km de h0 fijo (-35.485, -82.524)
+       dispersion de los puntos rotados respecto a h0: mediana 167 km, max 298 km
+=== SG12_GMHRF-B
+Easter sin pesos n=28 media ( -24.441, -105.061)  a  183.8 km de h0 fijo (-25.210, -106.673)
+Easter con pesos n=28 media ( -24.621, -105.001)  a  180.9 km de h0 fijo (-25.210, -106.673)
+Easter + 0 Ma    n=29 media ( -24.917, -105.276)  a  144.4 km de h0 fijo (-25.210, -106.673)
+       dispersion de los puntos rotados respecto a h0: mediana 238 km, max 906 km
+JFR    sin pesos n=16 media ( -34.248,  -81.584)  a   42.7 km de h0 fijo (-34.616, -81.450)
+JFR    con pesos n=16 media ( -34.237,  -81.608)  a   44.6 km de h0 fijo (-34.616, -81.450)
+JFR    + 0 Ma    n=17 media ( -34.195,  -81.633)  a   49.7 km de h0 fijo (-34.616, -81.450)
+       dispersion de los puntos rotados respecto a h0: mediana 51 km, max 105 km
+=== SG12_GWG20
+Easter sin pesos n=29 media ( -24.251, -102.218)  a  110.1 km de h0 fijo (-24.317, -103.302)
+Easter con pesos n=29 media ( -24.571, -102.661)  a   70.8 km de h0 fijo (-24.317, -103.302)
+Easter + 0 Ma    n=30 media ( -24.820, -103.202)  a   56.8 km de h0 fijo (-24.317, -103.302)
+       dispersion de los puntos rotados respecto a h0: mediana 168 km, max 889 km
+JFR    sin pesos n=15 media ( -33.787,  -80.360)  a   22.3 km de h0 fijo (-33.743, -80.595)
+JFR    con pesos n=15 media ( -33.820,  -80.693)  a   12.5 km de h0 fijo (-33.743, -80.595)
+JFR    + 0 Ma    n=16 media ( -33.775,  -81.494)  a   83.2 km de h0 fijo (-33.743, -80.595)
+       dispersion de los puntos rotados respecto a h0: mediana 48 km, max 201 km

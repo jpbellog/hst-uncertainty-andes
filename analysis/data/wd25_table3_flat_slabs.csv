@@ -1,0 +1,15 @@
+# Wilson and DeMets (2025, JGR Solid Earth, doi 10.1029/2025JB031933), Table 3 "Possible Correlation of
+# Flat Slab Segments With Plate Motion Changes", p. 19, transcribed from the PDF (pdfplumber, layout).
+# Columns rf_* = Ramos and Folguera (2009); ma_* = Martinod et al. (2020); decel/accel =
+# motion changes of WD25. Text as printed in the *_txt columns; in ma_* the asterisk marks an
+# age based on reduced or inland volcanism (note of the table); "N/A" = does not steepen.
+# Note of the table: the ages of Martinod et al. (2020) for the Peruvian segment apply to 5-10 S.
+# lat_n / lat_s in degrees (negative = south).
+segmento,lat_txt,lat_n,lat_s,rf_flat_txt,rf_steep_txt,ma_flat_txt,ma_steep_txt,decel_txt,accel_txt
+Altiplano,15°–20°S,-15,-20,40–32,27–18,47–38,26–25,>33,26
+Puna,20°–26°S,-20,-26,18,12,28,14,?,10
+Payenia,35°–39°S,-35,-39,13,5,16*,5*,15.8,∼8.3
+Peruvian,5°–14°S,-5,-14,11,N/A,"14*,8",N/A,13.7,N/A
+Pampean,27°–33°S,-27,-33,12,N/A,"12*,5",N/A,∼7,N/A
+Bucaramanga,5°–10°N,10,5,13,N/A,"13*,6",N/A,5.9,N/A
+Carnegie,1°S–2°N,2,-1,<3,N/A,3*,N/A,∼0.6,N/A

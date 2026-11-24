@@ -1,0 +1,24 @@
+# Ages of the Taltal / San Felix track.
+# - SF1: San Felix Island, Haase et al. (2000), Terra Nova 12(2):90-96, Fig. 2a:
+#   plateau 421 +/- 18 ka. NOTE: Haase reports 1 SIGMA (caption of Fig. 2); here it is
+#   converted to 2 sigma (x2) for consistency with Ray/Lara: 0.421 +/- 0.036 Ma.
+# - SAMBROSIO293: San Ambrosio Island, K-Ar 2.93 +/- 0.15 Ma from Gonzalez-Ferran
+#   (1987), in Castilla (Ed.), Islas Oceanicas Chilenas: Conocimiento Cientifico
+#   y Necesidades de Investigaciones, pp. 37-54: sodic hawaiite from the lower
+#   part of the upper unit (p. 50; the same age in the figure on
+#   p. 43). Checked in the chapter. It is also the 2.93 Ma node of
+#   plate 15 in Global_Model_R_BG_2025.rot. The chapter does not say whether the +/-0.15
+#   is 1 or 2 sigma: as a conservative choice it is taken as
+#   1 sigma, err2s_ma = 0.30; assumed_err = 1 flags this assumed convention.
+#   age_type "unverified" is the label with which ArAr_recalibration.py leaves it
+#   out of the 40Ar/39Ar recalibration (it is K-Ar); it does not mean the value lacks a source.
+#   The same page gives 2.86 +/- 0.14 Ma for the upper flows (sodic
+#   mugearite); it is not used.
+# - COORDINATES: measured by the AUTHOR in Google Earth on the
+#   islands (there are no published sample positions): San Felix -26.295,-80.095;
+#   San Ambrosio -26.343,-79.89. pos_err_km = island dimension measured by
+#   the author with the Google Earth ruler (~3.9 km for both): used as the position
+#   error of the sample within the edifice (added in quadrature in step 03).
+sample,edifice,lat,lon,age_ma,err2s_ma,age_type,use_fit,segment,assumed_err,pos_err_km
+SF1,San_Felix,-26.295,-80.095,0.421,0.036,plateau,1,TT,0,3.9
+SAMBROSIO293,San_Ambrosio,-26.343,-79.89,2.93,0.30,unverified,1,TT,1,3.9

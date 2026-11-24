@@ -1,0 +1,30 @@
+# 40Ar/39Ar ages of the Juan Fernandez Ridge, Lara et al. (2018), Frontiers in
+# Earth Science 6:194, Table 2 (p. 5); errors at 95% (2 sigma) according to Methods
+# (p. 4). Plateau ages per sample (preferred by the authors). Coordinates
+# of the edifices from Table 1 (p. 4), in decimal degrees (S and W negative).
+# NOTE: Table 1 of the paper has an Age column that does NOT match the
+# measured ages of Table 2 (e.g. Alpha 3.91 vs 4.58-4.63; the abstract
+# supports Table 2); Table 2 is used here.
+# Progression rate (p. 10): 81.30 +/- 1.70 mm/yr (R2=0.96, all samples);
+# 80.65 +/- 1.70 mm/yr (R2=0.99, latest shield stage only). The paper does not
+# state the sigma convention of the rate error; Q22_WK08-A treats it
+# as 1 sigma (conservative option).
+# Present hotspot position (p. 11): ~20 km west of Domingo Seamount,
+# 33 55.5'S / 82 2.9'W (regression intercept, no published ellipse).
+sample,edifice,lat,lon,age_ma,err2s_ma,age_type,use_fit,segment
+FRIDAY,Friday,-33.7900,-81.7250,0.62,0.13,plateau,1,JFR
+JR170913-16,Alejandro_Selkirk,-33.7610,-80.7870,0.83,0.03,plateau,1,JFR
+JR180913-1,Alejandro_Selkirk,-33.7610,-80.7870,0.88,0.01,plateau,1,JFR
+JR170913-7,Alejandro_Selkirk,-33.7610,-80.7870,0.93,0.02,plateau,1,JFR
+LL270112-2,Alejandro_Selkirk,-33.7610,-80.7870,0.94,0.07,plateau,1,JFR
+LL260112-4,Alejandro_Selkirk,-33.7610,-80.7870,1.01,0.08,plateau,1,JFR
+MP270112-4,Robinson_Crusoe,-33.6377,-78.8580,3.67,0.06,plateau,1,JFR
+LL240711-1,Robinson_Crusoe,-33.6377,-78.8580,3.79,0.04,plateau,1,JFR
+JR220112-2,Robinson_Crusoe,-33.6377,-78.8580,3.81,0.04,plateau,1,JFR
+REYES2017,Robinson_Crusoe,-33.6377,-78.8580,3.83,0.03,weighted_mean,1,JFR
+LL270711-5,Robinson_Crusoe,-33.6377,-78.8580,4.10,0.09,plateau,1,JFR
+D11-03,Alpha_Guyot,-33.6750,-78.4765,4.58,0.06,plateau,1,JFR
+D11-04,Alpha_Guyot,-33.6750,-78.4765,4.63,0.06,plateau,1,JFR
+D10-2,OHiggins_Guyot,-32.9027,-73.9028,8.41,0.07,plateau,1,JFR
+D10-7,OHiggins_Guyot,-32.9027,-73.9028,8.97,0.52,plateau,1,JFR
+D10-7b,OHiggins_Guyot,-32.9027,-73.9028,9.28,0.33,plateau,1,JFR

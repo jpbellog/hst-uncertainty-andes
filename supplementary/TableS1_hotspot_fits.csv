@@ -1,0 +1,49 @@
+chain,model,n,hs,drift,w_t,w_x,rms,shift,excl
+Easter,Q22 + WK08-A,27/30,drifting,10.1,1.21,84,137/84,232,"DM14-1028-3, DRFT-115-2, GS7202-DR58"
+San F\'elix,Q22 + WK08-A,2/2,fixed,--,0.44$^a$,23$^a$,78/19,128,--
+Juan Fern\'andez,Q22 + WK08-A,16/16,drifting,20.1,0.44,23,36/23,82,--
+Foundation,Q22 + WK08-A,19/19,fixed,--,0.61,39,54/39,85,--
+Easter,Q22 + GMHRF-B,28/30,drifting,11.7,2.02,63,211/63,148,"DM14-1028-3, GS7202-DR58"
+San F\'elix,Q22 + GMHRF-B,2/2,fixed,--,0.41$^a$,13$^a$,61/7,64,--
+Juan Fern\'andez,Q22 + GMHRF-B,16/16,drifting,20.9,0.41,13,36/13,27,--
+Foundation,Q22 + GMHRF-B,19/19,drifting,11.4,0.48,46,45/46,69,--
+Easter,Q22 + GWG20,29/30,drifting,12.9,2.37,84,241/84,280,DM14-1028-3
+San F\'elix,Q22 + GWG20,2/2,fixed,--,0.24$^a$,4$^a$,32/9,98,--
+Juan Fern\'andez,Q22 + GWG20,15/16,drifting,26.7,0.24,4,23/4,43,FRIDAY
+Foundation,Q22 + GWG20,19/19,drifting,9.8,0.60,59,61/59,217,--
+Easter,WD25 + WK08-A,28/30,drifting,9.5,1.56,85,162/85,229,"DM14-1028-3, DRFT-115-2"
+San F\'elix,WD25 + WK08-A,2/2,fixed,--,0.37$^a$,21$^a$,63/27,114,--
+Juan Fern\'andez,WD25 + WK08-A,16/16,drifting,16.6,0.37,21,29/21,79,--
+Foundation,WD25 + WK08-A,19/19,fixed,--,0.61,39,54/39,85,--
+Easter,WD25 + GMHRF-B,29/30,drifting,11.2,2.15,72,223/72,126,DM14-1028-3
+San F\'elix,WD25 + GMHRF-B,2/2,fixed,--,0.37$^a$,8$^a$,55/3,74,--
+Juan Fern\'andez,WD25 + GMHRF-B,16/16,drifting,17.2,0.37,8,30/8,23,--
+Foundation,WD25 + GMHRF-B,19/19,drifting,11.4,0.48,46,45/46,69,--
+Easter,WD25 + GWG20,29/30,drifting,8.0,2.59,74,258/74,296,DM14-1028-3
+San F\'elix,WD25 + GWG20,2/2,fixed,--,0.42$^a$,3$^a$,29/6,112,--
+Juan Fern\'andez,WD25 + GWG20,16/16,drifting,29.7,0.42,3,32/3,55,--
+Foundation,WD25 + GWG20,19/19,drifting,9.8,0.60,59,61/59,217,--
+Easter,SG12 + WK08-A,27/30,drifting,10.1,1.21,84,137/84,232,"DM14-1028-3, DRFT-115-2, GS7202-DR58"
+San F\'elix,SG12 + WK08-A,2/2,fixed,--,0.44$^a$,23$^a$,78/19,128,--
+Juan Fern\'andez,SG12 + WK08-A,16/16,drifting,20.1,0.44,23,36/23,82,--
+Foundation,SG12 + WK08-A,19/19,fixed,--,0.61,39,54/39,85,--
+Easter,SG12 + GMHRF-B,28/30,drifting,11.7,2.02,63,211/63,148,"DM14-1028-3, GS7202-DR58"
+San F\'elix,SG12 + GMHRF-B,2/2,fixed,--,0.41$^a$,13$^a$,61/7,64,--
+Juan Fern\'andez,SG12 + GMHRF-B,16/16,drifting,20.9,0.41,13,36/13,27,--
+Foundation,SG12 + GMHRF-B,19/19,drifting,11.4,0.48,46,45/46,69,--
+Easter,SG12 + GWG20,29/30,drifting,12.9,2.37,84,241/84,280,DM14-1028-3
+San F\'elix,SG12 + GWG20,2/2,fixed,--,0.24$^a$,4$^a$,32/9,98,--
+Juan Fern\'andez,SG12 + GWG20,15/16,drifting,26.7,0.24,4,23/4,43,FRIDAY
+Foundation,SG12 + GWG20,19/19,drifting,9.8,0.60,59,61/59,217,--
+Easter,Q22 + GMHRF-A',28/30,drifting,15.2,2.24,61,225/61,235,"DM14-1028-3, GS7202-DR58"
+San F\'elix,Q22 + GMHRF-A',2/2,fixed,--,0.39$^a$,13$^a$,78/6,52,--
+Juan Fern\'andez,Q22 + GMHRF-A',16/16,drifting,9.5,0.39,13,32/13,27,--
+Foundation,Q22 + GMHRF-A',19/19,drifting,11.4,0.48,46,45/46,69,--
+Easter,WD25 + GMHRF-A',29/30,drifting,14.8,2.29,71,234/71,230,DM14-1028-3
+San F\'elix,WD25 + GMHRF-A',2/2,fixed,--,0.35$^a$,7$^a$,73/3,59,--
+Juan Fern\'andez,WD25 + GMHRF-A',16/16,drifting,6.0,0.35,7,28/7,29,--
+Foundation,WD25 + GMHRF-A',19/19,drifting,11.4,0.48,46,45/46,69,--
+Easter,SG12 + GMHRF-A',28/30,drifting,15.2,2.24,61,225/61,235,"DM14-1028-3, GS7202-DR58"
+San F\'elix,SG12 + GMHRF-A',2/2,fixed,--,0.39$^a$,13$^a$,78/6,52,--
+Juan Fern\'andez,SG12 + GMHRF-A',16/16,drifting,9.5,0.39,13,32/13,27,--
+Foundation,SG12 + GMHRF-A',19/19,drifting,11.4,0.48,46,45/46,69,--

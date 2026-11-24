@@ -1,0 +1,14 @@
+# Third-party inputs: download them as described in THIRD_PARTY.md; they are not redistributed here
+external/*
+!external/README.md
+# Tables parsed from the Wilson and DeMets (2025) Supporting Information by parse_wd25_si.py
+models/WD25_WK08-A/wd25/
+
+# Figures and test outputs written when the scripts are run
+figures/output/
+
+# Python and run logs
+__pycache__/
+*.pyc
+*.log
+!tools/hellinger_chang/reference/*.log

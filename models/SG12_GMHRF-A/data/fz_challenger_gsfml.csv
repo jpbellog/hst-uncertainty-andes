@@ -1,0 +1,25 @@
+# Trace of the Challenger FZ on Nazca (plate 902003, present-day coordinates).
+# Source: Global Seafloor Fabric database of the GSFML (PIs Wessel and Muller; version of 13-11-2015;
+# references on the site: Matthews et al. 2011, JGR 116 B12109; Wessel et al. 2015, G3,
+# doi:10.1002/2015GC005853), file GSFML_SF_FZ_RM (R. Myhill), trace FZ_RM_0002-0189, unnamed.
+# It is the Challenger FZ (it reaches the margin at ~33S; Yanez et al. 2002), identified by the author;
+# its conjugate on the Pacific plate is the Resolution FZ. Use: t_switch of Foundation in 03b_hotspot_fit.py.
+lon,lat
+-99.94583,-35.28455
+-98.55794,-35.46033
+-97.53696,-35.53508
+-96.31526,-35.62940
+-93.27926,-35.86705
+-91.52506,-36.03644
+-89.80319,-36.18082
+-88.38766,-36.22662
+-85.18013,-36.18950
+-84.30242,-36.11599
+-82.80350,-35.65113
+-81.39265,-34.98176
+-79.76638,-34.24132
+-78.17980,-33.90085
+-76.48592,-33.46376
+-75.09891,-33.13150
+-73.63821,-32.85340
+-73.13201,-32.68088

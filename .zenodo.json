@@ -1,0 +1,16 @@
+{
+  "title": "Data and code for: Formal uncertainty budget for subducting hotspot-track reconstructions and trench-collision points along the Cenozoic Andean margin of Chile and Peru",
+  "upload_type": "software",
+  "description": "Rotation models with nodal covariances, geochronological compilations, deposit and igneous-sample databases, and the Python code that reproduces every number, table and figure of the article submitted to Earth and Planetary Science Letters. Third-party datasets are not redistributed; THIRD_PARTY.md lists their sources and where the code expects them.",
+  "creators": [
+    {"name": "Bello-González, Juan Pablo", "affiliation": "Universidad de Chile"},
+    {"name": "Lara, Luis E.", "affiliation": "Universidad Austral de Chile"},
+    {"name": "Contreras-Reyes, Eduardo", "affiliation": "Universidad de Chile"},
+    {"name": "Quiero Silva, Felipe", "affiliation": "Universidad Andres Bello"}
+  ],
+  "license": "MIT",
+  "keywords": ["hotspot tracks", "plate reconstructions", "uncertainty", "flat-slab subduction", "ridge subduction", "Andes"],
+  "related_identifiers": [
+    {"identifier": "10.1016/j.pce.2025.104202", "relation": "references", "scheme": "doi"}
+  ]
+}

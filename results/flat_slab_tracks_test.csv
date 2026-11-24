@@ -1,0 +1,16 @@
+cadena,segmento,lat,solape_68,solape_95,todas_medianas_dentro,modelos_validos_min,rf_plano,martinod_plano,wd25_decel,wd25_accel
+Easter,Altiplano,15°–20°S,0-1,0-4,,9,40–32 / 27–18,47–38 / 26–25,>33,26
+Easter,Peruvian,5°–14°S,0-22; 39-50,0-50,4-13; 50,3,11 / nan,"14*,8 / nan",13.7,
+Easter,Bucaramanga,5°–10°N,,21-28,,6,13 / nan,"13*,6 / nan",5.9,
+Easter,Carnegie,1°S–2°N,16-42,14-44,29,3,<3 / nan,3* / nan,∼0.6,
+San Félix,Altiplano,15°–20°S,13-50,11-50,19-29; 34-43,3,40–32 / 27–18,47–38 / 26–25,>33,26
+San Félix,Puna,20°–26°S,0-19; 39-50,0-21; 36-50,0-14,3,18 / 12,28 / 14,?,10
+San Félix,Peruvian,5°–14°S,31-33,27-35; 37-42,,3,11 / nan,"14*,8 / nan",13.7,
+San Félix,Pampean,27°–33°S,,0-8,,9,12 / nan,"12*,5 / nan",∼7,
+Juan Fernández,Altiplano,15°–20°S,19-41,18-44,,3,40–32 / 27–18,47–38 / 26–25,>33,26
+Juan Fernández,Puna,20°–26°S,15-50,12-50,26-45,3,18 / 12,28 / 14,?,10
+Juan Fernández,Payenia,35°–39°S,,3; 14,,9,13 / 5,16* / 5*,15.8,∼8.3
+Juan Fernández,Pampean,27°–33°S,0-19; 45-50,0-21; 43-50,0; 12-14,3,12 / nan,"12*,5 / nan",∼7,
+Foundation,Altiplano,15°–20°S,0-8; 43-46,0-10; 42-46,0-5; 45-46,1,40–32 / 27–18,47–38 / 26–25,>33,26
+Foundation,Peruvian,5°–14°S,6-44,3-45,9-16; 32-42,1,11 / nan,"14*,8 / nan",13.7,
+Foundation,Carnegie,1°S–2°N,,15-25,,3,<3 / nan,3* / nan,∼0.6,

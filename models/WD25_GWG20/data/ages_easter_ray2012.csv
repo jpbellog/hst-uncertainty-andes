@@ -1,0 +1,45 @@
+# 40Ar/39Ar ages of the Nazca Ridge and Easter Seamount Chain, Ray et al. (2012),
+# J. Petrology 53(7), Table 2 (p. 5). Errors at 95% (2 sigma) according to p. 7 of the paper.
+# age_type: the age used here (plateau unless stated); Ray Fig. 4 used plateau
+# except total_fusion for DRFT-100-2 and isochron for DRFT-115-2 and DRFT-126-1.
+# use_fit=1 reproduces the selection of Ray's regression (Fig. 4): it excludes
+# DRFT-84/-85 (anomalously young), total-fusion-only samples with recoil,
+# DRFT-115-1 (postshield) and everything west of Easter Island.
+# lat/lon in degrees (S and W negative), of the dredge site (Table 2).
+sample,material,lat,lon,age_ma,err2s_ma,age_type,use_fit,segment
+DRFT-84-1,groundmass,-21.58,-81.82,4.48,0.04,plateau,0,NR
+DRFT-85-1,groundmass,-21.56,-81.81,5.00,0.08,plateau,0,NR
+DRFT-86-1,plagioclase,-22.39,-81.27,27.43,1.80,plateau,1,NR
+DRFT-91-2,groundmass,-23.99,-82.55,23.85,0.13,plateau,1,NR
+DRFT-97-1,plagioclase,-22.81,-82.21,24.58,0.50,plateau,1,NR
+DRFT-100-2,whole_rock,-22.31,-82.98,24.32,0.69,total_fusion,1,NR
+DRFT-101-1,plagioclase,-22.51,-83.95,27.47,7.45,plateau,1,NR
+DRFT-103-2,whole_rock,-24.17,-84.17,24.92,0.20,plateau,1,ESC
+DRFT-104-4,whole_rock,-24.47,-83.30,24.13,0.56,plateau,1,ESC
+DRFT-110-7,plagioclase,-24.83,-82.11,25.49,0.59,plateau,1,NR
+DRFT-112-1,groundmass,-25.08,-82.49,23.49,0.29,plateau,1,ESC
+DRFT-115-1,whole_rock,-25.65,-83.75,13.59,0.07,total_fusion,0,ESC
+DRFT-115-2,groundmass,-25.65,-83.75,16.27,0.19,isochron,1,ESC
+DRFT-121-1,groundmass,-25.53,-86.69,19.01,0.23,plateau,1,ESC
+DRFT-121-1p,plagioclase,-25.53,-86.69,19.19,0.09,plateau,1,ESC
+DRFT-122-1,plagioclase,-25.42,-89.23,17.62,0.70,plateau,1,ESC
+DRFT-126-1,plagioclase,-25.37,-91.76,15.82,8.06,isochron,1,ESC
+DRFT-126-5,whole_rock,-25.37,-91.76,14.85,1.89,total_fusion,0,ESC
+DRFT-127-2,whole_rock,-25.56,-94.54,12.16,0.09,plateau,1,ESC
+DRFT-128-2,whole_rock,-25.69,-95.48,10.97,0.11,plateau,1,ESC
+DRFT-129-1,plagioclase,-25.92,-97.10,9.52,0.48,plateau,1,ESC
+DRFT-130-1,whole_rock,-25.46,-98.20,10.67,1.25,plateau,1,ESC
+DRFT-130-2,whole_rock,-25.46,-98.20,11.52,1.10,isochron,0,ESC
+DRFT-131-1,groundmass,-25.02,-98.40,10.59,0.21,plateau,1,ESC
+DRFT-135-1,whole_rock,-26.13,-100.05,6.53,0.09,plateau,1,ESC
+DRFT-138-3,whole_rock,-26.17,-101.87,4.41,0.27,plateau,1,ESC
+DRFT-139-4,plagioclase,-26.19,-103.04,2.78,0.32,plateau,1,ESC
+DM14-1028-3,plagioclase,-21.12,-80.83,20.29,0.85,plateau,1,NR
+DM14-1028-11,whole_rock,-21.12,-80.83,25.28,0.38,total_fusion,0,NR
+DM14-1028-37,plagioclase,-21.12,-80.83,28.45,4.12,plateau,1,NR
+GS7202-DR62-1,whole_rock,-18.62,-80.30,29.86,0.29,plateau,1,NR
+GS7202-DR62-2,whole_rock,-18.62,-80.30,30.74,0.80,plateau,1,NR
+GS7202-DR62A,whole_rock,-18.62,-80.30,26.66,0.20,plateau,1,NR
+GS7202-DR58,whole_rock,-21.28,-80.95,21.59,2.14,plateau,1,NR
+GS7202-DR72-2,whole_rock,-26.35,-105.23,1.35,0.02,plateau,1,ESC
+GS7202-DR69-2,groundmass,-25.44,-93.05,12.51,1.30,plateau,1,ESC
